@@ -21,6 +21,9 @@
             </a>
         </div>
     </nav>
+    <div class="banner-kc">
+
+    </div>
 
     <div class="text-imag">
         <div class="container">

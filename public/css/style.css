@@ -25,6 +25,14 @@
     padding: 0;
     margin: 0;
 }
+.banner-kc{
+    background: #e83e8c;
+    height: 260px;
+    width: 100%;
+    background-image: url('../banner/actual_size_1920x409px/banner_with_text.jpg');
+    background-size: cover;
+    background-position: center;
+}
 .font-relaway-m{
     font-family:"Raleway MediumItalic";
 }
@@ -49,4 +57,9 @@ a:link, a:visited, a:active {
 }
 
 
-
+@media (max-width: 769px) {
+    .banner-kc{
+        background-position: center right;
+        background-image: url('../banner/actual_size_1920x409px/banner_no_text.jpg');
+    }
+}
