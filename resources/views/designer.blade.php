@@ -31,11 +31,31 @@
             <botton class="button-kc-green btn">Regester Your Interest</botton>
         </div>
     </div>
+    <div class="mission-kc">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1 class="title-kc title-kc-green">
+                        Our Mission
+                    </h1>
+                    <ul class="no_bullet">
+                        <li class="img-kc-1">To shape a healthier future for everyone</li>
+                        <li class="img-kc-1">To build a community of aspirational future ready learners, who are motivated to explore, create, and innovate.</li>
+                        <li class="img-kc-1">To provide a creative and inspirational virtual curriculum available ON DEMAND in the classroom and for home learning.</li>
+                        <li class="img-kc-1">To connect students to inspirational experts and young entrepreneurial role models via our weekly broadcasts.</li>
+
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <div class="imag-00">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="text-imag">
         <div class="container">
-            <a href="#" class="btn-kc-tx"><img src="{{ asset('Assets/PNGs/Asset-07.png') }}" class="btn-kc">A flexible curriculum</a>
-            <input class="btn-kc-tx" type="button" value="A flexible curriculum" src="{{ asset('Assets/PNGs/Asset-07.png') }}" width="200px" />
             <div class="row align-items-center font-relaway-m text-center">
                 <div class="col-sm-4">
                     <img src="{{ asset('Assets/PNGs/Asset-03.png') }}" class="logo-kc-class" >

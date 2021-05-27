@@ -41,6 +41,38 @@
     border-radius: 15px;
     background: #B9D539;
 }
+.mission-kc{
+    background: #E9E6DD;
+    width: 100%;
+    height: 400px;
+    padding: 50px 0;
+}
+.title-kc{
+    font-size: 18px;
+    border-radius: 15px;
+    background: #fff;
+    color: #000;
+    display: inline-block;
+    padding: 8px 16px;
+}
+.title-kc-green{
+    background: #B9D539;
+}
+ul.no_bullet {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+li.img-kc-1{
+    background: url("../Assets/PNGs/Asset-01.png") no-repeat left top;
+    padding-left: 60px;
+    padding-top: 3px;
+}
+.imag-00{
+    background: #6E6E6E;
+    height: 300px;
+    width: 100%;
+}
 
 
 
