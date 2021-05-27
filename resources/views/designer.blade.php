@@ -22,7 +22,14 @@
         </div>
     </nav>
     <div class="banner-kc">
-
+    </div>
+    <div class="register-kc py-2 row">
+        <div class="col-md-8 text-center">
+                Would you like to host the KC Classroom at your school?
+        </div>
+        <div class="col-md-4 text-center">
+            <botton class="button-kc-green btn">Regester Your Interest</botton>
+        </div>
     </div>
 
     <div class="text-imag">

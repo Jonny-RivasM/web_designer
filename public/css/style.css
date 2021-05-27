@@ -33,6 +33,18 @@
     background-size: cover;
     background-position: center;
 }
+.register-kc{
+    background: #611550;
+    color: #fff;
+}
+.button-kc-green{
+    border-radius: 15px;
+    background: #B9D539;
+}
+
+
+
+
 .font-relaway-m{
     font-family:"Raleway MediumItalic";
 }
