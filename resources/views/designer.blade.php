@@ -71,7 +71,9 @@
                     </div>
                 </div>
                 <div class="col-md-5 img-classroom-kc">
-                    <img src="{{ asset('logos/png/the_kc_classroom_logo-04_edit.png') }}" class="logo-kc-classroom" >
+                    <div class="p-5">
+                        <img src="{{ asset('logos/png/the_kc_classroom_logo-04_edit.png') }}" class="logo-kc-classroom" >
+                    </div>
                 </div>
             </div>
         </div>
@@ -85,7 +87,7 @@
             <div class="row align-items-center font-relaway-m text-center">
                 <div class="col-sm-4">
                     <img src="{{ asset('assets/pngs/asset-03.png') }}" class="logo-kc-class" >
-                    <h5>Careers & Phse</h5>
+                    <h3>Careers & Phse</h3>
                     The KC Classroom can be used in
                     careers programmes to widen
                     aspirations and help Careers Leaders
@@ -96,7 +98,7 @@
                 </div>
                 <div class="col-sm-4">
                     <img src="{{ asset('assets/pngs/asset-04.png') }}" class="logo-kc-class" >
-                    <h5>Flexibility</h5>
+                    <h3>Flexibility</h3>
                     The KC Classroom can be used in a variety
                     of ways to include in the classroom, as an
                     enrichment programme and home
@@ -114,7 +116,7 @@
                 <div class="col-sm-4">
                     <img src="{{ asset('assets/pngs/asset-05.png') }}" class="logo-kc-class" >
 
-                    <h5>The KC CLassroom Club</h5>
+                    <h3>The KC CLassroom Club</h3>
                     Start your own KC Classroom club
                     with a targeted group of students.
                     Get stuck into our project-based
@@ -152,7 +154,44 @@
             </div>
         </div>
     </div>
-    
+    <div class="work-kc">
+        <div class="container">
+            <div class="title-kc title-kc-purple">
+                How does ir work?
+            </div>
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="{{ asset('slides/slides_with_text/slide1.jpg') }}" class="d-block w-100 work-kc-img" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="{{ asset('slides/slides_with_text/slide2.jpg') }}" class="d-block w-100 work-kc-img" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="{{ asset('slides/slides_with_text/slide3.jpg') }}" class="d-block w-100 work-kc-img" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="{{ asset('slides/slides_with_text/slide4.jpg') }}" class="d-block w-100 work-kc-img" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="{{ asset('slides/slides_with_text/slide5.jpg') }}" class="d-block w-100 work-kc-img" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="{{ asset('slides/slides_with_text/slide6.jpg') }}" class="d-block w-100 work-kc-img" alt="...">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="register-kc py-2 row">
+        <div class="col-md-8 text-center">
+            Would you like to host the KC Classroom at your school?
+        </div>
+        <div class="col-md-4 text-center">
+            <botton class="button-kc-green btn">Regester Your Interest</botton>
+        </div>
+    </div>
 
 
 

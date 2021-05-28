@@ -13,7 +13,7 @@
 
 .logo-kc-class{
     width: 100%;
-    max-width: 250px;
+    max-width: 170px;
     color: #fff;
 }
 .navbar-kc-class{
@@ -105,7 +105,7 @@ li.img-kc-1{
 .text-curriculum-kc{
     background-color: #AE256C;
     color: #FFFFFF;
-    padding: 5px 10px 40px 10px;
+    padding: 20px 10px 40px 10px;
 }
 .title-kc-gold{
     background: #F79D28;
@@ -123,8 +123,13 @@ li.img-kc-1{
 .button-kc-gold-img{
     padding: 40px;
 }
-
-
+.work-kc{
+    background: #33BDB9;
+    padding: 20px 0px;
+}
+.work-kc-img{
+    padding: 20px 100px;
+}
 
 
 
@@ -165,5 +170,8 @@ a:link, a:visited, a:active {
     }
     .classroom-kc{
         height: auto;
+    }
+    .work-kc-img{
+        padding: 20px 10px;
     }
 }
