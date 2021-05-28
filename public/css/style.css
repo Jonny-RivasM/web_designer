@@ -108,11 +108,21 @@ li.img-kc-1{
     padding: 5px 10px 40px 10px;
 }
 .title-kc-gold{
-    margin: 15px 15px;
     background: #F79D28;
     color: #AE256C;
 }
-
+.button-kc-gold{
+    background: #F79D28;
+    margin: 0;
+    padding: 0;
+}
+.buttun-kc-img{
+    width: 100%;
+    padding: 10px 10px;
+}
+.button-kc-gold-img{
+    padding: 40px;
+}
 
 
 

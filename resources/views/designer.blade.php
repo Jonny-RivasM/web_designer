@@ -128,6 +128,31 @@
             </div>
         </div>
     </div>
+    <div class="button-kc-gold">
+        <div class="container">
+            <div class="row button-kc-gold-img">
+                <a class="col-md-4" href="#">
+                    <img src="{{ asset('assets/project_buttons/1.png') }}" class="buttun-kc-img" >
+                </a>
+                <a class="col-md-4" href="#">
+                    <img src="{{ asset('assets/project_buttons/3.png') }}" class="buttun-kc-img" >
+                </a>
+                <a class="col-md-4" href="#">
+                    <img src="{{ asset('assets/project_buttons/2.png') }}" class="buttun-kc-img" >
+                </a>
+                <a class="col-md-4" href="#">
+                    <img src="{{ asset('assets/project_buttons/4.png') }}" class="buttun-kc-img" >
+                </a>
+                <a class="col-md-4" href="#">
+                    <img src="{{ asset('assets/project_buttons/5.png') }}" class="buttun-kc-img" >
+                </a>
+                <a class="col-md-4" href="#">
+                    <img src="{{ asset('assets/project_buttons/6.png') }}" class="buttun-kc-img" >
+                </a>
+            </div>
+        </div>
+    </div>
+    
 
 
 
