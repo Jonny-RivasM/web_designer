@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
 </head>
-<body>
+<body class="font-relaway-m">
     <nav class="navbar navbar-kc-class">
         <div class="container">
             <a class="navbar-brand " href="/">
