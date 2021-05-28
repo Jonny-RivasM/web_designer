@@ -77,8 +77,11 @@
         </div>
     </div>
 
-    <div class="text-imag">
+    <div class="text-curriculum-kc">
         <div class="container">
+            <div class="title-kc title-kc-gold">
+                A flecible curriculum
+            </div>
             <div class="row align-items-center font-relaway-m text-center">
                 <div class="col-sm-4">
                     <img src="{{ asset('assets/pngs/asset-03.png') }}" class="logo-kc-class" >

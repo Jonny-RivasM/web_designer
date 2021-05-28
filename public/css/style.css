@@ -102,6 +102,24 @@ li.img-kc-1{
     width: 100%;
 }
 
+.text-curriculum-kc{
+    background-color: #AE256C;
+    color: #FFFFFF;
+    padding: 5px 10px 40px 10px;
+}
+.title-kc-gold{
+    margin: 15px 15px;
+    background: #F79D28;
+    color: #AE256C;
+}
+
+
+
+
+
+
+
+
 
 .font-relaway-m{
     font-family:"Raleway MediumItalic";
@@ -111,9 +129,6 @@ li.img-kc-1{
     width: 60%;
 }
 
-.text-imag{
-    background-color: #e83e8c;
-}
 .btn-kc{
     width: 200px;
 }
